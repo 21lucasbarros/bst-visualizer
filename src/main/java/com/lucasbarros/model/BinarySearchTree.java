@@ -11,7 +11,7 @@ public class BinarySearchTree {
         return root;
     }
 
-    public boolean isEmpity() {
+    public boolean isEmpty() {
         return root == null;
     }
 
